@@ -1,2 +1,8 @@
-# dsb-batch10
+# Data science Bootcamp 10
 my data science and analysis projects
+
+## My personal projects
+
+1. SQL ...
+2. ...
+3. ...
